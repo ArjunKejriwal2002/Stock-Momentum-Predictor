@@ -19,7 +19,7 @@ Note that based on research and testing, these four models offered the best comb
 2) Random Forest Regressor
 3) Elastic Net Regressor
 4) Multi-layer Perceptron Regressor
--- predictions are ensembled via averaging.
+* predictions are ensembled via averaging.
 
 ## Model Output:
 1) Binary classification for momentum direction (1 for Up and 0 for Down)
