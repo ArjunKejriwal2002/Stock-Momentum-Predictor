@@ -36,7 +36,7 @@ Note that based on research and testing, these four models offered the best comb
 - Extent Accuracy = 34% (beats random chance of 20%)
 - Extent Discrepancy = 0.8 (beats random chance of 1.2)  -- this represents the average absolute diff in the predicted and actual quantile-based ranking of momentum-extent
 
-* Though the numbers above beat chance, we want higher accuracy to be able to build better-performing trade execution algorithms
+Though the numbers above beat chance, we want higher accuracy to be able to build better-performing trade execution algorithms
 
 ## Limitations:
 A number of reasons presented obstacles to building a highly predictive model:
