@@ -51,6 +51,6 @@ A number of reasons presented obstacles to building a highly predictive model:
 -- fix should be to optimize hyperparameters using a large set of possible values for each of the models in consideration before continuing with 2) above
 
 4) Models not tested with the actual algorithms
--- fix should be to test the best model combinations from 2) in UAT environment and measure impact on algorithm performance
+-- fix should be to test the best model combinations from 2) in UAT environment and measure the impact on algorithm performance
 
 The stock momentum prediction model built internally for the company aimed to eliminate these limitations and achieved better accuracy and performance
