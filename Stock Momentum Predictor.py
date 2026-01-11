@@ -11,7 +11,7 @@
 # 2) Extent of move ranked 1–5 (5 = largest expected magnitude)
 
 ## Data: 1-minute aggregated stock price data over last 200 days (limitation of yfinance library) for 6 symbols of varying market cap and liquidity
-# -- more rigorous testing with tick-level price data over larger time horizon is done in an internal company project 
+# -- more rigorous testing with tick-level price data over larger time horizon is done in internal company project 
 
 ## Prediction Horizon: predict the direction and extent of move for the following 10-minute period
 
